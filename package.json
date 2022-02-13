@@ -1,0 +1,24 @@
+{
+  "name": "practices",
+  "version": "1.0.0",
+  "description": "Hello world!",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Radiohead340/practices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Radiohead340/practices/issues"
+  },
+  "homepage": "https://github.com/Radiohead340/practices#readme",
+  "dependencies": {
+    "parcel": "^2.3.1"
+  }
+}
